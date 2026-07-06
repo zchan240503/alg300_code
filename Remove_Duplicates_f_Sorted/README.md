@@ -1,3 +1,4 @@
+26. Remove Duplicates from Sorted Array
 bài này đơn gian thôi , 
 tôi sẽ cần phải xóa các phần tử trùng nhau trong mảng số nguyên
 tôi dùng 2 con trỏ cur và next 
